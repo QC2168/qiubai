@@ -1,0 +1,13 @@
+/* 公共按钮 */
+.user-set-btn {
+    width: 100%;
+    margin: 20upx 0;
+    background-color: #FFE933;
+    border: 0;
+    color: black;
+}
+
+.body {
+    padding: 0 20upx;
+
+}
